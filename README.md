@@ -14,6 +14,9 @@ This is a **self-hosted newsletter platform** that helps you:
 
 **Perfect for:** Technical writers, developer advocates, content creators, or anyone who sends curated link newsletters.
 
+![Newsletter Builder Screenshot](docs/images/screenshot.png)
+*The newsletter builder interface with AI-powered content generation*
+
 ## 🎯 Why This Exists
 
 Most newsletter platforms (Substack, Mailchimp, ConvertKit) are designed for long-form writing or marketing automation. If you just want to share curated links with clean formatting and a simple workflow, those platforms are overkill.
