@@ -17,7 +17,7 @@ const app = express();
 const port = process.env.PORT || 5050;
 
 app.use(cors());
-app.use(express.json({ limit: '2mb' }));
+app.use(express.json({ limit: '10mb' }));
 app.use('/public', express.static('public'));
 
 app.get('/api/health', (req, res) => {
